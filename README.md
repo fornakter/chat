@@ -1,2 +1,2 @@
 # chat
-Chat TCP 
+Simple chat TCP for next project
